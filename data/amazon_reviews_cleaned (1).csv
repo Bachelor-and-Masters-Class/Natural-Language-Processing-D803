@@ -1,0 +1,501 @@
+review_id,review_text,rating,sentiment,cleaned_review_text
+1,fast shipping and amazing performance,5,positive,fast shipping amazing performance
+2,fast shipping and amazing performance,4,positive,fast shipping amazing performance
+3,customer service was unhelpful,2,negative,customer service unhelpful
+4,super easy to use and works perfectly,4,positive,super easy use work perfectly
+5,fast shipping and amazing performance,5,positive,fast shipping amazing performance
+6,cheap materials and bad design,2,negative,cheap material bad design
+7,the product is okay but nothing special,3,neutral,product okay nothing special
+8,really love this item and would buy again,4,positive,really love item would buy
+9,works as expected but shipping was slow,3,neutral,work expected shipping slow
+10,the product is okay but nothing special,3,neutral,product okay nothing special
+11,acceptable performance overall,3,neutral,acceptable performance overall
+12,not bad but could be better,3,neutral,bad could better
+13,average quality for the price,3,neutral,average quality price
+14,fast shipping and amazing performance,4,positive,fast shipping amazing performance
+15,fast shipping and amazing performance,5,positive,fast shipping amazing performance
+16,really love this item and would buy again,4,positive,really love item would buy
+17,completely stopped working after a few days,1,negative,completely stopped working day
+18,does the job but has some flaws,3,neutral,job flaw
+19,product is fine but packaging was damaged,3,neutral,product fine packaging damaged
+20,average quality for the price,3,neutral,average quality price
+21,super easy to use and works perfectly,4,positive,super easy use work perfectly
+22,works as expected but shipping was slow,3,neutral,work expected shipping slow
+23,fast shipping and amazing performance,4,positive,fast shipping amazing performance
+24,works as expected but shipping was slow,3,neutral,work expected shipping slow
+25,customer service was unhelpful,2,negative,customer service unhelpful
+26,completely stopped working after a few days,2,negative,completely stopped working day
+27,item arrived damaged and unusable,1,negative,item arrived damaged unusable
+28,works as expected but shipping was slow,3,neutral,work expected shipping slow
+29,acceptable performance overall,3,neutral,acceptable performance overall
+30,fast shipping and amazing performance,4,positive,fast shipping amazing performance
+31,waste of money and poor performance,2,negative,waste money poor performance
+32,item arrived damaged and unusable,2,negative,item arrived damaged unusable
+33,this product works great and exceeded my expectations,4,positive,product work great exceeded expectation
+34,very durable and reliable product,5,positive,durable reliable product
+35,not bad but could be better,3,neutral,bad could better
+36,terrible quality and broke after one week,1,negative,terrible quality broke one week
+37,does the job but has some flaws,3,neutral,job flaw
+38,very durable and reliable product,5,positive,durable reliable product
+39,very durable and reliable product,4,positive,durable reliable product
+40,terrible quality and broke after one week,2,negative,terrible quality broke one week
+41,works as expected but shipping was slow,3,neutral,work expected shipping slow
+42,great value for the price,5,positive,great value price
+43,waste of money and poor performance,1,negative,waste money poor performance
+44,terrible quality and broke after one week,2,negative,terrible quality broke one week
+45,terrible quality and broke after one week,2,negative,terrible quality broke one week
+46,cheap materials and bad design,1,negative,cheap material bad design
+47,does the job but has some flaws,3,neutral,job flaw
+48,not bad but could be better,3,neutral,bad could better
+49,excellent quality and very satisfied with the purchase,5,positive,excellent quality satisfied purchase
+50,great value for the price,5,positive,great value price
+51,completely stopped working after a few days,2,negative,completely stopped working day
+52,excellent quality and very satisfied with the purchase,4,positive,excellent quality satisfied purchase
+53,fast shipping and amazing performance,4,positive,fast shipping amazing performance
+54,this product works great and exceeded my expectations,4,positive,product work great exceeded expectation
+55,great value for the price,4,positive,great value price
+56,waste of money and poor performance,2,negative,waste money poor performance
+57,works as expected but shipping was slow,3,neutral,work expected shipping slow
+58,great value for the price,4,positive,great value price
+59,item arrived damaged and unusable,1,negative,item arrived damaged unusable
+60,completely stopped working after a few days,1,negative,completely stopped working day
+61,not bad but could be better,3,neutral,bad could better
+62,acceptable performance overall,3,neutral,acceptable performance overall
+63,excellent quality and very satisfied with the purchase,5,positive,excellent quality satisfied purchase
+64,very durable and reliable product,5,positive,durable reliable product
+65,acceptable performance overall,3,neutral,acceptable performance overall
+66,works as expected but shipping was slow,3,neutral,work expected shipping slow
+67,product is fine but packaging was damaged,3,neutral,product fine packaging damaged
+68,item arrived damaged and unusable,1,negative,item arrived damaged unusable
+69,does the job but has some flaws,3,neutral,job flaw
+70,acceptable performance overall,3,neutral,acceptable performance overall
+71,excellent quality and very satisfied with the purchase,5,positive,excellent quality satisfied purchase
+72,really love this item and would buy again,5,positive,really love item would buy
+73,terrible quality and broke after one week,1,negative,terrible quality broke one week
+74,completely stopped working after a few days,2,negative,completely stopped working day
+75,very disappointed with this product,1,negative,disappointed product
+76,not bad but could be better,3,neutral,bad could better
+77,terrible quality and broke after one week,2,negative,terrible quality broke one week
+78,completely stopped working after a few days,2,negative,completely stopped working day
+79,very durable and reliable product,5,positive,durable reliable product
+80,acceptable performance overall,3,neutral,acceptable performance overall
+81,this product works great and exceeded my expectations,5,positive,product work great exceeded expectation
+82,item arrived damaged and unusable,1,negative,item arrived damaged unusable
+83,this product works great and exceeded my expectations,5,positive,product work great exceeded expectation
+84,item arrived damaged and unusable,2,negative,item arrived damaged unusable
+85,acceptable performance overall,3,neutral,acceptable performance overall
+86,really love this item and would buy again,4,positive,really love item would buy
+87,cheap materials and bad design,2,negative,cheap material bad design
+88,really love this item and would buy again,4,positive,really love item would buy
+89,item arrived damaged and unusable,1,negative,item arrived damaged unusable
+90,great value for the price,5,positive,great value price
+91,very durable and reliable product,5,positive,durable reliable product
+92,item arrived damaged and unusable,2,negative,item arrived damaged unusable
+93,terrible quality and broke after one week,2,negative,terrible quality broke one week
+94,average quality for the price,3,neutral,average quality price
+95,item arrived damaged and unusable,2,negative,item arrived damaged unusable
+96,does the job but has some flaws,3,neutral,job flaw
+97,the product is okay but nothing special,3,neutral,product okay nothing special
+98,average quality for the price,3,neutral,average quality price
+99,average quality for the price,3,neutral,average quality price
+100,product is fine but packaging was damaged,3,neutral,product fine packaging damaged
+101,this product works great and exceeded my expectations,4,positive,product work great exceeded expectation
+102,really love this item and would buy again,5,positive,really love item would buy
+103,does the job but has some flaws,3,neutral,job flaw
+104,this product works great and exceeded my expectations,5,positive,product work great exceeded expectation
+105,fast shipping and amazing performance,4,positive,fast shipping amazing performance
+106,this product works great and exceeded my expectations,5,positive,product work great exceeded expectation
+107,not bad but could be better,3,neutral,bad could better
+108,completely stopped working after a few days,2,negative,completely stopped working day
+109,very durable and reliable product,4,positive,durable reliable product
+110,great value for the price,5,positive,great value price
+111,the product is okay but nothing special,3,neutral,product okay nothing special
+112,excellent quality and very satisfied with the purchase,5,positive,excellent quality satisfied purchase
+113,item arrived damaged and unusable,2,negative,item arrived damaged unusable
+114,waste of money and poor performance,2,negative,waste money poor performance
+115,very durable and reliable product,4,positive,durable reliable product
+116,really love this item and would buy again,5,positive,really love item would buy
+117,completely stopped working after a few days,2,negative,completely stopped working day
+118,waste of money and poor performance,2,negative,waste money poor performance
+119,product is fine but packaging was damaged,3,neutral,product fine packaging damaged
+120,product is fine but packaging was damaged,3,neutral,product fine packaging damaged
+121,works as expected but shipping was slow,3,neutral,work expected shipping slow
+122,excellent quality and very satisfied with the purchase,5,positive,excellent quality satisfied purchase
+123,the product is okay but nothing special,3,neutral,product okay nothing special
+124,item arrived damaged and unusable,1,negative,item arrived damaged unusable
+125,item arrived damaged and unusable,1,negative,item arrived damaged unusable
+126,cheap materials and bad design,2,negative,cheap material bad design
+127,great value for the price,4,positive,great value price
+128,works as expected but shipping was slow,3,neutral,work expected shipping slow
+129,the product is okay but nothing special,3,neutral,product okay nothing special
+130,really love this item and would buy again,5,positive,really love item would buy
+131,very durable and reliable product,4,positive,durable reliable product
+132,this product works great and exceeded my expectations,4,positive,product work great exceeded expectation
+133,acceptable performance overall,3,neutral,acceptable performance overall
+134,really love this item and would buy again,5,positive,really love item would buy
+135,very disappointed with this product,1,negative,disappointed product
+136,customer service was unhelpful,1,negative,customer service unhelpful
+137,fast shipping and amazing performance,5,positive,fast shipping amazing performance
+138,fast shipping and amazing performance,4,positive,fast shipping amazing performance
+139,works as expected but shipping was slow,3,neutral,work expected shipping slow
+140,average quality for the price,3,neutral,average quality price
+141,very durable and reliable product,4,positive,durable reliable product
+142,fast shipping and amazing performance,4,positive,fast shipping amazing performance
+143,this product works great and exceeded my expectations,5,positive,product work great exceeded expectation
+144,not bad but could be better,3,neutral,bad could better
+145,very durable and reliable product,4,positive,durable reliable product
+146,cheap materials and bad design,2,negative,cheap material bad design
+147,customer service was unhelpful,2,negative,customer service unhelpful
+148,great value for the price,5,positive,great value price
+149,average quality for the price,3,neutral,average quality price
+150,not bad but could be better,3,neutral,bad could better
+151,very disappointed with this product,2,negative,disappointed product
+152,average quality for the price,3,neutral,average quality price
+153,fast shipping and amazing performance,5,positive,fast shipping amazing performance
+154,acceptable performance overall,3,neutral,acceptable performance overall
+155,waste of money and poor performance,1,negative,waste money poor performance
+156,great value for the price,4,positive,great value price
+157,customer service was unhelpful,2,negative,customer service unhelpful
+158,cheap materials and bad design,2,negative,cheap material bad design
+159,average quality for the price,3,neutral,average quality price
+160,not bad but could be better,3,neutral,bad could better
+161,completely stopped working after a few days,2,negative,completely stopped working day
+162,terrible quality and broke after one week,2,negative,terrible quality broke one week
+163,great value for the price,4,positive,great value price
+164,excellent quality and very satisfied with the purchase,4,positive,excellent quality satisfied purchase
+165,product is fine but packaging was damaged,3,neutral,product fine packaging damaged
+166,item arrived damaged and unusable,2,negative,item arrived damaged unusable
+167,terrible quality and broke after one week,2,negative,terrible quality broke one week
+168,customer service was unhelpful,2,negative,customer service unhelpful
+169,fast shipping and amazing performance,5,positive,fast shipping amazing performance
+170,average quality for the price,3,neutral,average quality price
+171,great value for the price,5,positive,great value price
+172,not bad but could be better,3,neutral,bad could better
+173,not bad but could be better,3,neutral,bad could better
+174,customer service was unhelpful,2,negative,customer service unhelpful
+175,very durable and reliable product,5,positive,durable reliable product
+176,the product is okay but nothing special,3,neutral,product okay nothing special
+177,great value for the price,4,positive,great value price
+178,customer service was unhelpful,1,negative,customer service unhelpful
+179,average quality for the price,3,neutral,average quality price
+180,terrible quality and broke after one week,2,negative,terrible quality broke one week
+181,really love this item and would buy again,5,positive,really love item would buy
+182,excellent quality and very satisfied with the purchase,5,positive,excellent quality satisfied purchase
+183,average quality for the price,3,neutral,average quality price
+184,very disappointed with this product,1,negative,disappointed product
+185,average quality for the price,3,neutral,average quality price
+186,average quality for the price,3,neutral,average quality price
+187,acceptable performance overall,3,neutral,acceptable performance overall
+188,not bad but could be better,3,neutral,bad could better
+189,completely stopped working after a few days,1,negative,completely stopped working day
+190,customer service was unhelpful,1,negative,customer service unhelpful
+191,very durable and reliable product,5,positive,durable reliable product
+192,average quality for the price,3,neutral,average quality price
+193,great value for the price,5,positive,great value price
+194,great value for the price,5,positive,great value price
+195,works as expected but shipping was slow,3,neutral,work expected shipping slow
+196,really love this item and would buy again,5,positive,really love item would buy
+197,really love this item and would buy again,5,positive,really love item would buy
+198,terrible quality and broke after one week,1,negative,terrible quality broke one week
+199,great value for the price,4,positive,great value price
+200,fast shipping and amazing performance,5,positive,fast shipping amazing performance
+201,cheap materials and bad design,1,negative,cheap material bad design
+202,really love this item and would buy again,5,positive,really love item would buy
+203,acceptable performance overall,3,neutral,acceptable performance overall
+204,average quality for the price,3,neutral,average quality price
+205,really love this item and would buy again,4,positive,really love item would buy
+206,does the job but has some flaws,3,neutral,job flaw
+207,very disappointed with this product,2,negative,disappointed product
+208,fast shipping and amazing performance,4,positive,fast shipping amazing performance
+209,acceptable performance overall,3,neutral,acceptable performance overall
+210,not bad but could be better,3,neutral,bad could better
+211,item arrived damaged and unusable,2,negative,item arrived damaged unusable
+212,customer service was unhelpful,2,negative,customer service unhelpful
+213,not bad but could be better,3,neutral,bad could better
+214,the product is okay but nothing special,3,neutral,product okay nothing special
+215,acceptable performance overall,3,neutral,acceptable performance overall
+216,average quality for the price,3,neutral,average quality price
+217,cheap materials and bad design,1,negative,cheap material bad design
+218,waste of money and poor performance,2,negative,waste money poor performance
+219,customer service was unhelpful,2,negative,customer service unhelpful
+220,super easy to use and works perfectly,5,positive,super easy use work perfectly
+221,the product is okay but nothing special,3,neutral,product okay nothing special
+222,terrible quality and broke after one week,1,negative,terrible quality broke one week
+223,average quality for the price,3,neutral,average quality price
+224,item arrived damaged and unusable,2,negative,item arrived damaged unusable
+225,very disappointed with this product,2,negative,disappointed product
+226,average quality for the price,3,neutral,average quality price
+227,average quality for the price,3,neutral,average quality price
+228,customer service was unhelpful,1,negative,customer service unhelpful
+229,average quality for the price,3,neutral,average quality price
+230,waste of money and poor performance,1,negative,waste money poor performance
+231,great value for the price,4,positive,great value price
+232,not bad but could be better,3,neutral,bad could better
+233,very durable and reliable product,5,positive,durable reliable product
+234,product is fine but packaging was damaged,3,neutral,product fine packaging damaged
+235,product is fine but packaging was damaged,3,neutral,product fine packaging damaged
+236,completely stopped working after a few days,1,negative,completely stopped working day
+237,works as expected but shipping was slow,3,neutral,work expected shipping slow
+238,really love this item and would buy again,4,positive,really love item would buy
+239,works as expected but shipping was slow,3,neutral,work expected shipping slow
+240,the product is okay but nothing special,3,neutral,product okay nothing special
+241,terrible quality and broke after one week,1,negative,terrible quality broke one week
+242,acceptable performance overall,3,neutral,acceptable performance overall
+243,acceptable performance overall,3,neutral,acceptable performance overall
+244,does the job but has some flaws,3,neutral,job flaw
+245,waste of money and poor performance,2,negative,waste money poor performance
+246,very disappointed with this product,1,negative,disappointed product
+247,terrible quality and broke after one week,2,negative,terrible quality broke one week
+248,not bad but could be better,3,neutral,bad could better
+249,works as expected but shipping was slow,3,neutral,work expected shipping slow
+250,super easy to use and works perfectly,5,positive,super easy use work perfectly
+251,cheap materials and bad design,2,negative,cheap material bad design
+252,works as expected but shipping was slow,3,neutral,work expected shipping slow
+253,excellent quality and very satisfied with the purchase,4,positive,excellent quality satisfied purchase
+254,customer service was unhelpful,2,negative,customer service unhelpful
+255,the product is okay but nothing special,3,neutral,product okay nothing special
+256,fast shipping and amazing performance,4,positive,fast shipping amazing performance
+257,great value for the price,5,positive,great value price
+258,item arrived damaged and unusable,2,negative,item arrived damaged unusable
+259,terrible quality and broke after one week,2,negative,terrible quality broke one week
+260,terrible quality and broke after one week,1,negative,terrible quality broke one week
+261,great value for the price,4,positive,great value price
+262,excellent quality and very satisfied with the purchase,5,positive,excellent quality satisfied purchase
+263,not bad but could be better,3,neutral,bad could better
+264,fast shipping and amazing performance,4,positive,fast shipping amazing performance
+265,waste of money and poor performance,1,negative,waste money poor performance
+266,customer service was unhelpful,1,negative,customer service unhelpful
+267,fast shipping and amazing performance,4,positive,fast shipping amazing performance
+268,item arrived damaged and unusable,2,negative,item arrived damaged unusable
+269,acceptable performance overall,3,neutral,acceptable performance overall
+270,this product works great and exceeded my expectations,4,positive,product work great exceeded expectation
+271,waste of money and poor performance,1,negative,waste money poor performance
+272,does the job but has some flaws,3,neutral,job flaw
+273,acceptable performance overall,3,neutral,acceptable performance overall
+274,average quality for the price,3,neutral,average quality price
+275,really love this item and would buy again,4,positive,really love item would buy
+276,acceptable performance overall,3,neutral,acceptable performance overall
+277,average quality for the price,3,neutral,average quality price
+278,item arrived damaged and unusable,2,negative,item arrived damaged unusable
+279,fast shipping and amazing performance,5,positive,fast shipping amazing performance
+280,very durable and reliable product,5,positive,durable reliable product
+281,the product is okay but nothing special,3,neutral,product okay nothing special
+282,fast shipping and amazing performance,5,positive,fast shipping amazing performance
+283,very durable and reliable product,4,positive,durable reliable product
+284,very durable and reliable product,4,positive,durable reliable product
+285,fast shipping and amazing performance,4,positive,fast shipping amazing performance
+286,completely stopped working after a few days,2,negative,completely stopped working day
+287,super easy to use and works perfectly,4,positive,super easy use work perfectly
+288,average quality for the price,3,neutral,average quality price
+289,item arrived damaged and unusable,2,negative,item arrived damaged unusable
+290,acceptable performance overall,3,neutral,acceptable performance overall
+291,really love this item and would buy again,5,positive,really love item would buy
+292,excellent quality and very satisfied with the purchase,4,positive,excellent quality satisfied purchase
+293,super easy to use and works perfectly,5,positive,super easy use work perfectly
+294,product is fine but packaging was damaged,3,neutral,product fine packaging damaged
+295,item arrived damaged and unusable,1,negative,item arrived damaged unusable
+296,item arrived damaged and unusable,1,negative,item arrived damaged unusable
+297,acceptable performance overall,3,neutral,acceptable performance overall
+298,very durable and reliable product,4,positive,durable reliable product
+299,waste of money and poor performance,2,negative,waste money poor performance
+300,really love this item and would buy again,4,positive,really love item would buy
+301,terrible quality and broke after one week,1,negative,terrible quality broke one week
+302,this product works great and exceeded my expectations,4,positive,product work great exceeded expectation
+303,excellent quality and very satisfied with the purchase,4,positive,excellent quality satisfied purchase
+304,waste of money and poor performance,2,negative,waste money poor performance
+305,the product is okay but nothing special,3,neutral,product okay nothing special
+306,terrible quality and broke after one week,2,negative,terrible quality broke one week
+307,great value for the price,4,positive,great value price
+308,very disappointed with this product,1,negative,disappointed product
+309,super easy to use and works perfectly,5,positive,super easy use work perfectly
+310,super easy to use and works perfectly,5,positive,super easy use work perfectly
+311,very disappointed with this product,1,negative,disappointed product
+312,very disappointed with this product,1,negative,disappointed product
+313,acceptable performance overall,3,neutral,acceptable performance overall
+314,very durable and reliable product,5,positive,durable reliable product
+315,customer service was unhelpful,1,negative,customer service unhelpful
+316,product is fine but packaging was damaged,3,neutral,product fine packaging damaged
+317,super easy to use and works perfectly,4,positive,super easy use work perfectly
+318,excellent quality and very satisfied with the purchase,4,positive,excellent quality satisfied purchase
+319,very durable and reliable product,5,positive,durable reliable product
+320,really love this item and would buy again,5,positive,really love item would buy
+321,very durable and reliable product,5,positive,durable reliable product
+322,product is fine but packaging was damaged,3,neutral,product fine packaging damaged
+323,really love this item and would buy again,4,positive,really love item would buy
+324,works as expected but shipping was slow,3,neutral,work expected shipping slow
+325,really love this item and would buy again,5,positive,really love item would buy
+326,very disappointed with this product,2,negative,disappointed product
+327,the product is okay but nothing special,3,neutral,product okay nothing special
+328,really love this item and would buy again,5,positive,really love item would buy
+329,works as expected but shipping was slow,3,neutral,work expected shipping slow
+330,great value for the price,5,positive,great value price
+331,acceptable performance overall,3,neutral,acceptable performance overall
+332,waste of money and poor performance,1,negative,waste money poor performance
+333,this product works great and exceeded my expectations,5,positive,product work great exceeded expectation
+334,waste of money and poor performance,1,negative,waste money poor performance
+335,terrible quality and broke after one week,2,negative,terrible quality broke one week
+336,item arrived damaged and unusable,2,negative,item arrived damaged unusable
+337,this product works great and exceeded my expectations,5,positive,product work great exceeded expectation
+338,acceptable performance overall,3,neutral,acceptable performance overall
+339,very durable and reliable product,5,positive,durable reliable product
+340,fast shipping and amazing performance,4,positive,fast shipping amazing performance
+341,waste of money and poor performance,1,negative,waste money poor performance
+342,terrible quality and broke after one week,1,negative,terrible quality broke one week
+343,waste of money and poor performance,2,negative,waste money poor performance
+344,does the job but has some flaws,3,neutral,job flaw
+345,very disappointed with this product,2,negative,disappointed product
+346,not bad but could be better,3,neutral,bad could better
+347,fast shipping and amazing performance,4,positive,fast shipping amazing performance
+348,very disappointed with this product,1,negative,disappointed product
+349,waste of money and poor performance,2,negative,waste money poor performance
+350,this product works great and exceeded my expectations,4,positive,product work great exceeded expectation
+351,this product works great and exceeded my expectations,4,positive,product work great exceeded expectation
+352,really love this item and would buy again,4,positive,really love item would buy
+353,the product is okay but nothing special,3,neutral,product okay nothing special
+354,this product works great and exceeded my expectations,4,positive,product work great exceeded expectation
+355,waste of money and poor performance,2,negative,waste money poor performance
+356,terrible quality and broke after one week,1,negative,terrible quality broke one week
+357,fast shipping and amazing performance,5,positive,fast shipping amazing performance
+358,the product is okay but nothing special,3,neutral,product okay nothing special
+359,works as expected but shipping was slow,3,neutral,work expected shipping slow
+360,completely stopped working after a few days,2,negative,completely stopped working day
+361,waste of money and poor performance,2,negative,waste money poor performance
+362,waste of money and poor performance,1,negative,waste money poor performance
+363,item arrived damaged and unusable,2,negative,item arrived damaged unusable
+364,super easy to use and works perfectly,4,positive,super easy use work perfectly
+365,works as expected but shipping was slow,3,neutral,work expected shipping slow
+366,waste of money and poor performance,1,negative,waste money poor performance
+367,not bad but could be better,3,neutral,bad could better
+368,average quality for the price,3,neutral,average quality price
+369,does the job but has some flaws,3,neutral,job flaw
+370,really love this item and would buy again,4,positive,really love item would buy
+371,average quality for the price,3,neutral,average quality price
+372,acceptable performance overall,3,neutral,acceptable performance overall
+373,item arrived damaged and unusable,1,negative,item arrived damaged unusable
+374,cheap materials and bad design,2,negative,cheap material bad design
+375,product is fine but packaging was damaged,3,neutral,product fine packaging damaged
+376,does the job but has some flaws,3,neutral,job flaw
+377,customer service was unhelpful,2,negative,customer service unhelpful
+378,very durable and reliable product,5,positive,durable reliable product
+379,customer service was unhelpful,2,negative,customer service unhelpful
+380,cheap materials and bad design,2,negative,cheap material bad design
+381,product is fine but packaging was damaged,3,neutral,product fine packaging damaged
+382,product is fine but packaging was damaged,3,neutral,product fine packaging damaged
+383,terrible quality and broke after one week,2,negative,terrible quality broke one week
+384,customer service was unhelpful,2,negative,customer service unhelpful
+385,terrible quality and broke after one week,2,negative,terrible quality broke one week
+386,average quality for the price,3,neutral,average quality price
+387,terrible quality and broke after one week,1,negative,terrible quality broke one week
+388,terrible quality and broke after one week,2,negative,terrible quality broke one week
+389,fast shipping and amazing performance,5,positive,fast shipping amazing performance
+390,item arrived damaged and unusable,2,negative,item arrived damaged unusable
+391,terrible quality and broke after one week,1,negative,terrible quality broke one week
+392,works as expected but shipping was slow,3,neutral,work expected shipping slow
+393,completely stopped working after a few days,2,negative,completely stopped working day
+394,average quality for the price,3,neutral,average quality price
+395,average quality for the price,3,neutral,average quality price
+396,does the job but has some flaws,3,neutral,job flaw
+397,this product works great and exceeded my expectations,4,positive,product work great exceeded expectation
+398,this product works great and exceeded my expectations,5,positive,product work great exceeded expectation
+399,excellent quality and very satisfied with the purchase,4,positive,excellent quality satisfied purchase
+400,great value for the price,4,positive,great value price
+401,completely stopped working after a few days,2,negative,completely stopped working day
+402,great value for the price,4,positive,great value price
+403,item arrived damaged and unusable,1,negative,item arrived damaged unusable
+404,cheap materials and bad design,2,negative,cheap material bad design
+405,really love this item and would buy again,5,positive,really love item would buy
+406,does the job but has some flaws,3,neutral,job flaw
+407,customer service was unhelpful,1,negative,customer service unhelpful
+408,completely stopped working after a few days,1,negative,completely stopped working day
+409,product is fine but packaging was damaged,3,neutral,product fine packaging damaged
+410,customer service was unhelpful,1,negative,customer service unhelpful
+411,waste of money and poor performance,1,negative,waste money poor performance
+412,not bad but could be better,3,neutral,bad could better
+413,product is fine but packaging was damaged,3,neutral,product fine packaging damaged
+414,not bad but could be better,3,neutral,bad could better
+415,the product is okay but nothing special,3,neutral,product okay nothing special
+416,terrible quality and broke after one week,1,negative,terrible quality broke one week
+417,cheap materials and bad design,2,negative,cheap material bad design
+418,item arrived damaged and unusable,1,negative,item arrived damaged unusable
+419,not bad but could be better,3,neutral,bad could better
+420,really love this item and would buy again,5,positive,really love item would buy
+421,does the job but has some flaws,3,neutral,job flaw
+422,customer service was unhelpful,2,negative,customer service unhelpful
+423,not bad but could be better,3,neutral,bad could better
+424,the product is okay but nothing special,3,neutral,product okay nothing special
+425,item arrived damaged and unusable,2,negative,item arrived damaged unusable
+426,really love this item and would buy again,5,positive,really love item would buy
+427,very disappointed with this product,2,negative,disappointed product
+428,fast shipping and amazing performance,5,positive,fast shipping amazing performance
+429,terrible quality and broke after one week,2,negative,terrible quality broke one week
+430,excellent quality and very satisfied with the purchase,4,positive,excellent quality satisfied purchase
+431,average quality for the price,3,neutral,average quality price
+432,item arrived damaged and unusable,1,negative,item arrived damaged unusable
+433,acceptable performance overall,3,neutral,acceptable performance overall
+434,the product is okay but nothing special,3,neutral,product okay nothing special
+435,does the job but has some flaws,3,neutral,job flaw
+436,average quality for the price,3,neutral,average quality price
+437,fast shipping and amazing performance,4,positive,fast shipping amazing performance
+438,works as expected but shipping was slow,3,neutral,work expected shipping slow
+439,acceptable performance overall,3,neutral,acceptable performance overall
+440,fast shipping and amazing performance,5,positive,fast shipping amazing performance
+441,completely stopped working after a few days,1,negative,completely stopped working day
+442,does the job but has some flaws,3,neutral,job flaw
+443,product is fine but packaging was damaged,3,neutral,product fine packaging damaged
+444,completely stopped working after a few days,2,negative,completely stopped working day
+445,customer service was unhelpful,1,negative,customer service unhelpful
+446,the product is okay but nothing special,3,neutral,product okay nothing special
+447,customer service was unhelpful,1,negative,customer service unhelpful
+448,acceptable performance overall,3,neutral,acceptable performance overall
+449,completely stopped working after a few days,2,negative,completely stopped working day
+450,does the job but has some flaws,3,neutral,job flaw
+451,really love this item and would buy again,4,positive,really love item would buy
+452,works as expected but shipping was slow,3,neutral,work expected shipping slow
+453,completely stopped working after a few days,1,negative,completely stopped working day
+454,excellent quality and very satisfied with the purchase,5,positive,excellent quality satisfied purchase
+455,really love this item and would buy again,4,positive,really love item would buy
+456,item arrived damaged and unusable,2,negative,item arrived damaged unusable
+457,really love this item and would buy again,4,positive,really love item would buy
+458,does the job but has some flaws,3,neutral,job flaw
+459,this product works great and exceeded my expectations,4,positive,product work great exceeded expectation
+460,cheap materials and bad design,2,negative,cheap material bad design
+461,fast shipping and amazing performance,4,positive,fast shipping amazing performance
+462,great value for the price,4,positive,great value price
+463,does the job but has some flaws,3,neutral,job flaw
+464,super easy to use and works perfectly,5,positive,super easy use work perfectly
+465,terrible quality and broke after one week,1,negative,terrible quality broke one week
+466,works as expected but shipping was slow,3,neutral,work expected shipping slow
+467,excellent quality and very satisfied with the purchase,4,positive,excellent quality satisfied purchase
+468,product is fine but packaging was damaged,3,neutral,product fine packaging damaged
+469,great value for the price,5,positive,great value price
+470,super easy to use and works perfectly,4,positive,super easy use work perfectly
+471,cheap materials and bad design,1,negative,cheap material bad design
+472,the product is okay but nothing special,3,neutral,product okay nothing special
+473,very durable and reliable product,4,positive,durable reliable product
+474,average quality for the price,3,neutral,average quality price
+475,cheap materials and bad design,2,negative,cheap material bad design
+476,product is fine but packaging was damaged,3,neutral,product fine packaging damaged
+477,super easy to use and works perfectly,5,positive,super easy use work perfectly
+478,not bad but could be better,3,neutral,bad could better
+479,great value for the price,4,positive,great value price
+480,fast shipping and amazing performance,5,positive,fast shipping amazing performance
+481,average quality for the price,3,neutral,average quality price
+482,this product works great and exceeded my expectations,4,positive,product work great exceeded expectation
+483,product is fine but packaging was damaged,3,neutral,product fine packaging damaged
+484,very disappointed with this product,2,negative,disappointed product
+485,very disappointed with this product,2,negative,disappointed product
+486,great value for the price,5,positive,great value price
+487,excellent quality and very satisfied with the purchase,5,positive,excellent quality satisfied purchase
+488,does the job but has some flaws,3,neutral,job flaw
+489,does the job but has some flaws,3,neutral,job flaw
+490,great value for the price,5,positive,great value price
+491,customer service was unhelpful,2,negative,customer service unhelpful
+492,not bad but could be better,3,neutral,bad could better
+493,very disappointed with this product,2,negative,disappointed product
+494,completely stopped working after a few days,2,negative,completely stopped working day
+495,does the job but has some flaws,3,neutral,job flaw
+496,super easy to use and works perfectly,4,positive,super easy use work perfectly
+497,completely stopped working after a few days,1,negative,completely stopped working day
+498,customer service was unhelpful,2,negative,customer service unhelpful
+499,acceptable performance overall,3,neutral,acceptable performance overall
+500,completely stopped working after a few days,2,negative,completely stopped working day
