@@ -1,6 +1,6 @@
 **Overview**
 
-This repository contains my completed submission for the WGU course **D803 – Natural Language Processing**.
+This repository contains my completed submission for the WGU course **D803: Natural Language Processing**.
 
 The project builds a sentiment analysis classifier that determines whether an Amazon product review expresses positive or negative sentiment. Unstructured review text is cleaned, converted into a numerical feature representation using TF-IDF, and classified with logistic regression. Model quality is assessed using precision, recall, F1, and a confusion matrix rather than accuracy alone.
 
@@ -27,10 +27,10 @@ The objective is to build a model that reads review text directly and classifies
 **Text Preprocessing**
 The raw review corpus is cleaned into a normalized text column prior to modeling. Both the original and cleaned datasets are retained in the repository so the preprocessing step is transparent and reviewable.
 
-**Feature Extraction — TF-IDF**
-Reviews are vectorized using term frequency–inverse document frequency. TF-IDF was selected over raw count vectorization because it down-weights terms that appear across nearly every review and gives more signal to terms that distinguish one sentiment class from another.
+**Feature Extraction: TF-IDF**
+Reviews are vectorized using term frequency inverse document frequency. TF-IDF was selected over raw count vectorization because it down-weights terms that appear across nearly every review and gives more signal to terms that distinguish one sentiment class from another.
 
-**Model — Logistic Regression**
+**Model: Logistic Regression**
 A logistic regression classifier is trained on the vectorized corpus with an increased iteration limit to ensure convergence on the high-dimensional sparse feature matrix. Logistic regression is well suited to sparse text features, trains quickly, and produces interpretable coefficients that map back to individual terms.
 
 **Train/Test Split**
@@ -65,8 +65,8 @@ The script expects the cleaned review dataset in the data directory and prints a
 
 **Repository Contents**
 
--`sentiment_model.py` – Vectorization, training, and evaluation pipeline
+-`sentiment_model.py`: Vectorization, training, and evaluation pipeline
 
--`data/amazon_reviews_500 (1).csv` – Raw Amazon review dataset
+-`data/amazon_reviews_500 (1).csv`: Raw Amazon review dataset
 
--`data/amazon_reviews_cleaned (1).csv` – Preprocessed dataset used for modeling
+-`data/amazon_reviews_cleaned (1).csv`: Preprocessed dataset used for modeling
